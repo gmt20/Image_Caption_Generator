@@ -6,9 +6,12 @@ Since the problem is to generate image captions, RNN text generator should be tr
 During training the ground truth tokens were fed into the lstm to get predictions of next tokens.
 
 The architecture:
+![alt_text](https://github.com/gmt20/Image_Caption_Generator/blob/master/imag1.png)
 
 
 
 
 This model was executed on random pictures from internet. The results are as displayed:
+![alt_text](https://github.com/gmt20/Image_Caption_Generator/blob/master/imag2.png)
+
 
