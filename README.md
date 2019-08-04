@@ -15,3 +15,8 @@ This model was executed on random pictures from internet. The results are as dis
 ![alt_text](https://github.com/gmt20/Image_Caption_Generator/blob/master/imag2.png)
 
 
+
+
+![alt_text](https://github.com/gmt20/Image_Caption_Generator/blob/master/imag3.png)
+
+
